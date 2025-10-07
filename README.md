@@ -1,9 +1,9 @@
 ## 👋 About me
 
-30 yo Java Developer. In IT industry since 2016 - started as technical support, moved through administration and integration, finally landed as backend developer. I love to learn new things, reading books, swinging kettlebell and gaming.
+30 yo Software Engineer. In IT industry since 2016 - started as technical support, moved through administration and integration, finally landed as web developer. I love to learn new things, reading books, swinging kettlebell and gaming.
 
 [![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/milgodyn/)
-[![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg)](mailto:milosz@milgodyn.dev)
+[![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg)](mailto:milgodyn@outlook.co,)
 
 ## 🔧 Tech stack
 
